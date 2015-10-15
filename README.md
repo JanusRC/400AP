@@ -1,4 +1,4 @@
-Janus Arduino Library
+Janus 400AP
 ===
 
 www.janus-rc.com
